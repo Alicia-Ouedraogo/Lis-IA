@@ -1,0 +1,7 @@
+{
+  "name": "lis'IA - Calm & Support",
+  "description": "Un sanctuaire avancé propulsé par l'IA pour soulager l'anxiété, offrant un soutien empathique en temps réel, des outils d'ancrage interactifs et un suivi de l'humeur, conçu pour la jeunesse africaine.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
